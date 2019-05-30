@@ -1,6 +1,6 @@
 ---
 layout: default
 ---
-[Home](./home.html) [People](./people.html) [Seminars](./seminars.html)
+[Home](./) [People](./people.html) [Seminars](./seminars.html)
 
 # About
