@@ -5,8 +5,20 @@ layout: default
 
 # Seminars
 
-### Speaker
-* Date:
-* Title:
+### Stephen Weng
+* Date: 04/04/2019
+* Title: Applied data science in health care
 * Abstract:
-* Slides
+* Slides:
+
+### Paul Knott
+* Date: 21/02/2019
+* Title: Machine learning for designing quantum experiments
+* Abstract:
+* Slides:
+
+### Adam Moss
+* Date: 07/02/2019
+* Title: Applied data science in health care
+* Abstract:
+* Slides:
