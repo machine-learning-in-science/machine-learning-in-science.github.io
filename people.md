@@ -3,5 +3,22 @@ layout: default
 ---
 # People
 ### Juan Garrahan
+* Research interests:
 * Email: juan.garrahan@nottingham.ac.uk
 * Website: [https://www.nottingham.ac.uk/~ppzjpg/About.html](https://www.nottingham.ac.uk/~ppzjpg/About.html)
+
+### Adam Moss
+* Research interests:
+* Email: adam.moss@nottingham.ac.uk
+
+### Tom Oakes
+* Research interests:
+* Email: tom.oakes@nottingham.ac.uk
+
+### Edward Gillman
+* Research interests:
+* Email: edward.gillman@nottingham.ac.uk
+
+### Dominic Rose
+* Research interests:
+* Email: dominic.rose@nottingham.ac.uk
