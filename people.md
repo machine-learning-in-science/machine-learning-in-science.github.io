@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+[Home](./) [People](./people.html) [Seminars](./seminars.html)
+
 # People
 ### Juan Garrahan
 * Research interests:
