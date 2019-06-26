@@ -22,5 +22,5 @@ layout: default
 * Email: edward.gillman@nottingham.ac.uk
 
 ### Dominic Rose
-* Research interests:
+* Research interests: Non-equilibrium physics, Statistical physics, Large deviation theory, Reinforcement learning
 * Email: dominic.rose@nottingham.ac.uk
