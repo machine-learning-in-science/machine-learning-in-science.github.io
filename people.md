@@ -5,7 +5,7 @@ layout: default
 
 # People
 ### Juan Garrahan
-* Research interests:
+* Research interests: Statistical physics of supercooled liquids and glasses, Glass transitions and dynamic arrest, Quantum non-equilibrium systems, Large deviation methods, Molecular self-assembly
 * Email: juan.garrahan@nottingham.ac.uk
 * Website: [https://www.nottingham.ac.uk/~ppzjpg/About.html](https://www.nottingham.ac.uk/~ppzjpg/About.html)
 
