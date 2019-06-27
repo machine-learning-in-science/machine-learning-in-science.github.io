@@ -14,7 +14,7 @@ layout: default
 * Email: adam.moss@nottingham.ac.uk
 
 ### Tom Oakes
-* Research interests: Collective behaviour of kinetically constrained models, Active matter, Large deviation numerical techneques, Neural Networks as functional ansatz in physics.
+* Research interests: Collective behaviour of kinetically constrained models, Active matter, Large deviation numerical techniques, Neural Networks as functional ansatz in physics.
 * Email: tom.oakes@nottingham.ac.uk
 
 ### Edward Gillman
